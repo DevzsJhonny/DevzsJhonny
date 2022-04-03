@@ -33,3 +33,5 @@ Here are some ideas to get you started:
   
   
   </li>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DevzsJhonny=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
