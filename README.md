@@ -1,4 +1,4 @@
-### Olá, seja bem vindo! Eu sou o Jhonny.🇧🇷
+### Olá, seja bem vindo! Eu sou o Jhonny
 
 
   Formação em Análise e Desenvolvimento de Sistemas pela Fatec Zona Sul
