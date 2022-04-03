@@ -20,15 +20,15 @@ Here are some ideas to get you started:
   
   <h2>Tecnologias que tenho conhecimento e/ou experiência </h2>
   <li>
-    Oracle
-    SQL
-    BI
-    HTML
-    CSS
-    JavaScript
-    Java
-    MySQL
-    Python
+   <p> Oracle
+   <p>SQL
+   <p> BI
+   <p> HTML
+   <p> CSS
+   <p>JavaScript
+   <p> Java
+   <p> MySQL
+   <p> Python
 
   
   
