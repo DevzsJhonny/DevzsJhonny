@@ -1,4 +1,4 @@
-### Olá, seja bem vindo! Eu sou o Jhonny. 🇧🇷🇧🇷
+### Olá, seja bem vindo! Eu sou o Jhonny.🇧🇷
 
 <!--
   Analista de Sistemas 
