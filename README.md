@@ -29,9 +29,22 @@ Here are some ideas to get you started:
    <p> Java
    <p> MySQL
    <p> Python
-    <p> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
-  
+
   
   </li>
+  
+    <head> 
+ <p> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+     </head>
+    <body>
+  
+  
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  
+  
+  
+  
+  </body>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevzsJhonny)](https://github.com/DevzsJhonny/github-readme-stats)
