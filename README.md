@@ -35,7 +35,8 @@
   <a href="https://www.linkedin.com/in/jonatas-amorim-cref25/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:jonatas231997@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevzsJhonny)](https://github.com/DevzsJhonny/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevzsJhonny&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/DevzsJhonny/github-readme-stats)
+  [![DevzsJhonny](https://github-readme-stats.vercel.app/api/top-langs/?username=DevzsJhonny&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/DevzsJhonny/)
   
   ![Snake animation](https://github.com/JonatasAS/JonatasAS/blob/output/github-contribution-grid-snake.svg)
   
