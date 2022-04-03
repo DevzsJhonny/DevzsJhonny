@@ -15,3 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  Formação em Análise e Desenvolvimento de Sistemas pela Fatec Zona Sul
+  Eterno estudante, em busca novos conhecimentos e desafios. 
+  
+  <h2>Tecnologias que tenho conhecimento e/ou experiência </h2>
+  <li>
+    Oracle
+    SQL
+    BI
+    HTML
+    CSS
+    JavaScript
+    Java
+    MySQL
+    Python
+
+  
+  
+  </li>
