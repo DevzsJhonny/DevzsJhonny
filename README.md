@@ -1,8 +1,8 @@
 ### Olá, seja bem vindo! Eu sou o Jhonny
 
 
-  Formação em Análise e Desenvolvimento de Sistemas pela Fatec Zona Sul
-  Eterno estudante, em busca novos conhecimentos e desafios. 
+  Formado em Análise e Desenvolvimento de Sistemas<br>
+  Um grande curioso das coisas, focado em aprendizado e em busca de novos desafios e conhecimentos. 
   
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
   
