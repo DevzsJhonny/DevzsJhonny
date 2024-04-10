@@ -1,8 +1,9 @@
-### Olá, seja bem vindo! Eu sou o Jhonny
+### Olá, seja muito bem vindo! Eu sou o Jhonny,
 
 
-  Formado em Análise e Desenvolvimento de Sistemas<br>
-  Um grande curioso das coisas, focado em aprendizado e em busca de novos desafios e conhecimentos. 
+  Sou desenvolvedor e analista de Sistemas e negócios Corporativos. Formado em Análise e Desenvolvimento de Sistemas e Pós-Graduando em <i>Data Analytics</i><br>
+  Um grande curioso das coisas, focado em aprendizado e em busca de novos desafios e conhecimentos. <br>
+
   
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
   
@@ -43,6 +44,6 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevzsJhonny&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/DevzsJhonny/github-readme-stats)
   [![DevzsJhonny](https://github-readme-stats.vercel.app/api/top-langs/?username=DevzsJhonny&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/DevzsJhonny/) -->
   
-  ![Snake animation](https://github.com/JonatasAS/JonatasAS/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/JonatasAS/JonatasAS/blob/output/github-contribution-grid-snake.svg) -->
   
 </div>    
