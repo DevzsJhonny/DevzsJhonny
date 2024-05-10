@@ -1,4 +1,4 @@
-### Olá, seja muito bem vindo! Eu sou o Jhonny,
+### Olá, seja muito bem vindo(a)! Eu sou o Jhonny,
 
 
   Sou desenvolvedor e analista de Sistemas e negócios Corporativos. Formado em Análise e Desenvolvimento de Sistemas e Pós-Graduando em <i>Data Analytics</i><br>
