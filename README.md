@@ -1,8 +1,8 @@
 ### Olá, seja muito bem vindo(a)! Eu sou o Jhonny,
 
 
-  Sou desenvolvedor e analista de Sistemas e negócios Corporativos. Formado em Análise e Desenvolvimento de Sistemas e Pós-Graduando em <i>Data Analytics</i><br>
-  <br><h3> Um grande curioso das coisas, focado em aprendizado e em busca de novos desafios e conhecimentos. <br>
+  Sou desenvolvedor e analista de Sistemas e negócios Corporativos. Formado em Análise e Desenvolvimento de Sistemas e Pós-Graduando em <i>Data Analytics.</i><br>
+  <br><h3> Um grande curioso das coisas, focado em melhoria contínua, seja no âmbito profissional e pessoal. <br>
 
   
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
@@ -26,6 +26,8 @@
   <img align="center" alt="oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
  </div>
  <br>
+
+ <h2>E sigo em busca de novos aprendizados e novos conhecimentos. <b>Sapere Aude !!</b></h2>
   
 <div align="center">
   <a href="https://github.com/DevzsJhonny">
