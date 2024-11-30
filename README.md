@@ -2,7 +2,7 @@
 
 
   Sou analista e Desenvolvedor de Sistemas e o que mais gosto de fazer é resolver problemas e criar soluções inteligentes e criativas.<br>
-  Formado em Análise e Desenvolvimento de Sistemas e Pós-Graduando em <i>Data Analytics.</i> pela FIAP.<br>
+  Formado em Análise e Desenvolvimento de Sistemas e Pós-Graduando em <i>Data Analytics</i> pela FIAP.<br>
   <br> Especialista em banco Oracle e Desenvolvimento PL/SQL Oracle Forms/Reports e Oracle APEX<br>
   <br> Certificado pela Oracle, pela Google e pela Microsoft<br>
   <br><h3> Um grande curioso das coisas, focado em melhoria contínua, seja no âmbito profissional e pessoal. <br>
