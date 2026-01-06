@@ -42,16 +42,10 @@ Microsoft (AZURE)
  </div>
  <br>
 
- <h2>📚 Sou um grande estudioso, movido pelo aprendizado contínuo, sempre buscando evolução tanto no âmbito profissional quanto pessoal. <b>Sapere Aude !!</b></h2> <br><br>
+ <h2>📚 Sou um grande estudioso, movido pelo aprendizado contínuo e sempre buscando evolução tanto no âmbito profissional quanto pessoal.
+ <br><br> <b>Sapere Aude !!</b></h2> <br><br>
 
-<h2>📊 GitHub Stats</h2>
-  
-<div align="center">
-  <a href="https://github.com/DevzsJhonny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevzsJhonny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevzsJhonny&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
- <br></br> 
+ <br>
 <div>
   <h2> 🌐 Conecte-se comigo pelas Redes Sociais</h2>
   
